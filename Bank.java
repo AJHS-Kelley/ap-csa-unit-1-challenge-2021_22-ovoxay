@@ -1,5 +1,5 @@
 // Jordan Johnson, AP CSA Unit 1 Challenge, AJHS, 10/20/21, 9:05, v0.0
-
+//peer editing ft. robin/rachel macdonald: change the name of the of the file to "SavingsCalculator" :) 
 
 import java.util.Scanner;
 
